@@ -18,4 +18,5 @@ def assign_rooms(arr)
     room_list << "Hello, #{attendee}! You'll be assigned to room #{room_count}!"
     room_count += 1
   end
+  room_list
 end
