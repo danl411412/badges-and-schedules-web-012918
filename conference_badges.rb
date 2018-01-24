@@ -20,3 +20,6 @@ def assign_rooms(arr)
   end
   room_list
 end
+
+def print
+end
