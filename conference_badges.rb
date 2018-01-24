@@ -26,5 +26,8 @@ def printer(arr)
   bbc_array.each do |x|
     puts x
   end
-  assign_rooms(arr)
+  ar_array = assign_rooms(arr)
+  ar_array.each do |y|
+    puts y
+  end
 end
